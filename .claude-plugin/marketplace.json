@@ -1,0 +1,13 @@
+{
+  "name": "better-prompt",
+  "owner": { "name": "Kai Chen" },
+  "description": "Turns a rough prompt into a great one: a few quick questions, a rewrite, and a side-by-side review before anything is sent.",
+  "plugins": [
+    {
+      "name": "better-prompt",
+      "source": "./",
+      "description": "Turns a rough prompt into a great one: a few quick questions, a rewrite, and a side-by-side review before anything is sent.",
+      "version": "0.1.0"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "better-prompt",
+  "version": "0.1.0",
+  "description": "Turns a rough prompt into a great one: a few quick questions, a rewrite, and a side-by-side review before anything is sent.",
+  "author": { "name": "Kai Chen" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
